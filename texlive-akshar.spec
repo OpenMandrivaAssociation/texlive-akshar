@@ -1,6 +1,6 @@
 Name:		texlive-akshar
 Version:	56277
-Release:	1
+Release:	2
 Summary:	Support for syllables in the Devanagari script
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/akshar
