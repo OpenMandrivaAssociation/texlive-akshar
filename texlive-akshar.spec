@@ -3,7 +3,7 @@ Version:	56277
 Release:	2
 Summary:	Support for syllables in the Devanagari script
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/akshar
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/akshar
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/akshar.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/akshar.doc.r%{version}.tar.xz
